@@ -2,7 +2,7 @@
 
 body {
 	color: #333;
-	background-image: url("http://www.ukshapenote.org.uk/images/body_content/bg.jpg");
+	background-image: url("/images/body_content/bg.jpg");
 	background-repeat: repeat-x;
 	background-position: 0 0;
 }
@@ -62,7 +62,7 @@ div#mainbody {
 div#mainbody td.mainbody,
 div#mainbody td.left,
 div#mainbody td.right {
-	background: url("http://www.ukshapenote.org.uk/images/style1/body-bg.png") 0 0 repeat-y;
+	background: url("/images/style1/body-bg.png") 0 0 repeat-y;
 }
 img#mainbody {
 	background-color: #ECECE4;
@@ -74,16 +74,16 @@ div#mainbody a.readon {
 }
 
 div#mainbody td.section {
-	background: url("http://www.ukshapenote.org.uk/images/style1/body-bg.png") 0 0 repeat-y;
+	background: url("/images/style1/body-bg.png") 0 0 repeat-y;
 }
 
 div#mainbody div.moduletable h3 {
-	background: #ededed url("http://www.ukshapenote.org.uk/images/style1/body-h3.png") 0 0 repeat-y;
+	background: #ededed url("/images/style1/body-h3.png") 0 0 repeat-y;
 	color: #004438;
 }
 
 #mainbody li {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-body.png") 0 3px no-repeat;
+	background: url("/images/style1/bullet-body.png") 0 3px no-repeat;
 }
 
 #mainbody table.contentpaneopen-press {
@@ -117,7 +117,7 @@ div#mainbody div.moduletable h3 {
 }
 
 #mainbody div.moduletable-hilite1 {
-	background: #FDFEFD url("http://www.ukshapenote.org.uk/images/style1/body-hl1-bg.png") 0 0 repeat-y;
+	background: #FDFEFD url("/images/style1/body-hl1-bg.png") 0 0 repeat-y;
 }
 
 #mainbody div.moduletable-hilite1 h3 {
@@ -128,11 +128,11 @@ div#mainbody div.moduletable h3 {
 }
 
 #mainbody div.moduletable-hilite1 li {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-hl1.png") 0 3px no-repeat;	
+	background: url("/images/style1/bullet-hl1.png") 0 3px no-repeat;	
 }
 
 #mainbody div.moduletable-hilite1 a.readon {
-	background: url("http://www.ukshapenote.org.uk/images/style1/body-hl1-readmore.png") 0 0 no-repeat;
+	background: url("/images/style1/body-hl1-readmore.png") 0 0 no-repeat;
 }
 
 /* hilite2 */
@@ -143,20 +143,20 @@ div#mainbody div.moduletable h3 {
 }
 
 #mainbody div.moduletable-hilite2 {
-	background: #ECECE4 url("http://www.ukshapenote.org.uk/images/style1/body-hl2-bg.png") 0 0 repeat-y;
+	background: #ECECE4 url("/images/style1/body-hl2-bg.png") 0 0 repeat-y;
 }
 
 #mainbody div.moduletable-hilite2 h3 {
-	background:  #DEDFCD url("http://www.ukshapenote.org.uk/images/style1/body-hl2-h3.png") 0 0 repeat-y;
+	background:  #DEDFCD url("/images/style1/body-hl2-h3.png") 0 0 repeat-y;
 	color: #666666;
 }
 
 #mainbody div.moduletable-hilite2 li {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-hl2.png") 0 3px no-repeat;	
+	background: url("/images/style1/bullet-hl2.png") 0 3px no-repeat;	
 }
 
 #mainbody div.moduletable-hilite2 a.readon {
-	background: url("http://www.ukshapenote.org.uk/images/style1/body-hl2-readmore.png") 0 0 no-repeat;
+	background: url("/images/style1/body-hl2-readmore.png") 0 0 no-repeat;
 }
 
 /* hilite3 */
@@ -166,20 +166,20 @@ div#mainbody div.moduletable h3 {
 }
 
 #mainbody div.moduletable-hilite3 {
-	background: #f3f9de url("http://www.ukshapenote.org.uk/images/style1/body-hl3-bg.png") 0 0 repeat-y;
+	background: #f3f9de url("/images/style1/body-hl3-bg.png") 0 0 repeat-y;
 }
 
 #mainbody div.moduletable-hilite3 h3 {
-	background:  #e9f3c3 url("http://www.ukshapenote.org.uk/images/style1/body-hl3-h3.png") 0 0 repeat-y;
+	background:  #e9f3c3 url("/images/style1/body-hl3-h3.png") 0 0 repeat-y;
 	color: #3A590F;
 }
 
 #mainbody div.moduletable-hilite3 li {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-hl3.png") 0 3px no-repeat;	
+	background: url("/images/style1/bullet-hl3.png") 0 3px no-repeat;	
 }
 
 #mainbody div.moduletable-hilite3 a.readon {
-	background: url("http://www.ukshapenote.org.uk/images/style1/body-hl3-readmore.png") 0 0 no-repeat;
+	background: url("/images/style1/body-hl3-readmore.png") 0 0 no-repeat;
 }
 
 /* hilite4 */
@@ -189,47 +189,47 @@ div#mainbody div.moduletable h3 {
 }
 
 #mainbody div.moduletable-hilite4 {
-	background: #dfebf8 url("http://www.ukshapenote.org.uk/images/style1/body-hl4-bg.png") 0 0 repeat-y;
+	background: #dfebf8 url("/images/style1/body-hl4-bg.png") 0 0 repeat-y;
 }
 
 #mainbody div.moduletable-hilite4 h3 {
-	background:  #c4dbf1 url("http://www.ukshapenote.org.uk/images/style1/body-hl4-h3.png") 0 0 repeat-y;
+	background:  #c4dbf1 url("/images/style1/body-hl4-h3.png") 0 0 repeat-y;
 	color: #002647;
 }
 
 #mainbody div.moduletable-hilite4 li {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-hl4.png") 0 3px no-repeat;	
+	background: url("/images/style1/bullet-hl4.png") 0 3px no-repeat;	
 }
 
 #mainbody div.moduletable-hilite4 a.readon {
-	background: url("http://www.ukshapenote.org.uk/images/style1/body-hl4-readmore.png") 0 0 no-repeat;
+	background: url("/images/style1/body-hl4-readmore.png") 0 0 no-repeat;
 }
 
 /* hilite5 */
 
 #mainbody div.moduletable-hilite5 h3 {
-	background:  #25648a url("http://www.ukshapenote.org.uk/images/style1/body-hl5-h3.png") 0 0 repeat-y;
+	background:  #25648a url("/images/style1/body-hl5-h3.png") 0 0 repeat-y;
 	color: #fff;
 }
 
 /* hilite6 */
 
 #mainbody div.moduletable-hilite6 h3 {
-	background:  #f1942f url("http://www.ukshapenote.org.uk/images/style1/body-hl6-h3.png") 0 0 repeat-y;
+	background:  #f1942f url("/images/style1/body-hl6-h3.png") 0 0 repeat-y;
 	color: #fff;
 }
 
 /* hilite7 */
 
 #mainbody div.moduletable-hilite7 h3 {
-	background:  #9bb529 url("http://www.ukshapenote.org.uk/images/style1/body-hl7-h3.png") 0 0 repeat-y;
+	background:  #9bb529 url("/images/style1/body-hl7-h3.png") 0 0 repeat-y;
 	color: #fff;
 }
 
 /* hilite8 */
 
 #mainbody div.moduletable-hilite8 h3 {
-	background:  #71bbdc url("http://www.ukshapenote.org.uk/images/style1/body-hl8-h3.png") 0 0 repeat-y;
+	background:  #71bbdc url("/images/style1/body-hl8-h3.png") 0 0 repeat-y;
 	color: #fff;
 }
 
@@ -246,7 +246,7 @@ div#section1 a {
 }
 
 div#section1 a.readon {
-	background: url("http://www.ukshapenote.org.uk/images/style1/section1-readmore.png") 0 0 no-repeat;
+	background: url("/images/style1/section1-readmore.png") 0 0 no-repeat;
 	color: #fff;
 }
 
@@ -257,7 +257,7 @@ div#section1 td.section {
 div#section1 div.moduletable h3 {
 	color: #004438;
 	background-color: #DBE4E0;
-	background-image: url("http://www.ukshapenote.org.uk/images/style1/section1-h3.png");
+	background-image: url("/images/style1/section1-h3.png");
 	background-repeat: repeat-x;
 	background-position: 0 0;
 }
@@ -278,7 +278,7 @@ div#section2 a {
 }
 
 div#section2 a.readon {
-	background: url("http://www.ukshapenote.org.uk/images/style1/section2-readmore.png") 0 0 no-repeat;
+	background: url("/images/style1/section2-readmore.png") 0 0 no-repeat;
 	color: #fff;
 }
 
@@ -289,21 +289,21 @@ div#section2 td.section {
 div#section2 div.moduletable h3 {
 	color: #666666;
 	background-color: #DEDFCD;
-	background-image: url("http://www.ukshapenote.org.uk/images/style1/body-hl2-h3.png");
+	background-image: url("/images/style1/body-hl2-h3.png");
 	background-repeat: repeat-y;
 	background-position: 0 0;
 }
 
 #section2 li {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-section2.png") 0 3px no-repeat;
+	background: url("/images/style1/bullet-section2.png") 0 3px no-repeat;
 }
 
 img#logo {
-	background: url("http://www.ukshapenote.org.uk/images/style1/logo.png") 0 0 no-repeat;
+	background: url("/images/style1/logo.png") 0 0 no-repeat;
 }
 
 div#footer {
-	background:  #DEDFCD url("http://www.ukshapenote.org.uk/images/style1/body-hl2-h3.png") 0 0 repeat-y;
+	background:  #DEDFCD url("/images/style1/body-hl2-h3.png") 0 0 repeat-y;
 	position: relative;
 	height: 20px;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -313,11 +313,11 @@ div#footer {
 }
 
 div#footer .rk-1 {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bottom-r.png") 100% 0 no-repeat;
+	background: url("/images/style1/bottom-r.png") 100% 0 no-repeat;
 }
 
 div#footer .rk-2 {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bottom-l.png") 0 0 no-repeat;
+	background: url("/images/style1/bottom-l.png") 0 0 no-repeat;
 }
 
 div#the-footer {
@@ -386,7 +386,7 @@ div#horiz-menu li.active.sfHover a {
 #horiz-menu li.sfHover li a.daddy:link,
 #horiz-menu li:hover li a.daddy:visited,
 #horiz-menu li.sfHover li a.daddy:visited  {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-sucker.png") 100% 50% no-repeat;
+	background: url("/images/style1/bullet-sucker.png") 100% 50% no-repeat;
 }
 
 .nav li:hover,
@@ -440,7 +440,7 @@ span.alert {
 	color: #c00;
 	border-top: 3px solid #fe7b7a;
 	border-bottom: 3px solid #fe7b7a;
-	background: #ffcccc url("http://www.ukshapenote.org.uk/images/style1/status-alert.png") 10px 50% no-repeat;
+	background: #ffcccc url("/images/style1/status-alert.png") 10px 50% no-repeat;
 }
 
 span.info {
@@ -455,18 +455,18 @@ span.note {
 	color: #B79000;
 	border-top: 3px solid #fde179;
 	border-bottom: 3px solid #fde179;
-	background: #fff5cc url("http://www.ukshapenote.org.uk/images/style1/status-note.png") 10px 50% no-repeat;
+	background: #fff5cc url("/images/style1/status-note.png") 10px 50% no-repeat;
 }
 
 span.download {
 	color: #57861A;
 	border-top: 3px solid #c2df88;
 	border-bottom: 3px solid #c2df88;
-	background: #e8f4d2 url("http://www.ukshapenote.org.uk/images/style1/status-download.png") 10px 50% no-repeat;
+	background: #e8f4d2 url("/images/style1/status-download.png") 10px 50% no-repeat;
 }
 
 blockquote {
-	background: #f9f9f9 url("http://www.ukshapenote.org.uk/images/style1/blockquote.png") 0 0 no-repeat;
+	background: #f9f9f9 url("/images/style1/blockquote.png") 0 0 no-repeat;
 	color: #666;
 	font-style: italic;
 	font-size: 120%;
@@ -481,43 +481,43 @@ pre {
 
 #mainbody ul.check1 li,
 #mainbody li.check1 {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-1.png") 0 0 no-repeat;
+	background: url("/images/style1/bullet-1.png") 0 0 no-repeat;
 }
 
 #mainbody ul.check2 li,
 #mainbody li.check2 {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-3.png") 0 0 no-repeat;
+	background: url("/images/style1/bullet-3.png") 0 0 no-repeat;
 }
 
 #mainbody ul.arrow1 li,
 #mainbody li.arrow1 {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-2.png") 0 0 no-repeat;
+	background: url("/images/style1/bullet-2.png") 0 0 no-repeat;
 }
 
 #mainbody ul.arrow2 li,
 #mainbody li.arrow2 {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-4.png") 0 0 no-repeat;
+	background: url("/images/style1/bullet-4.png") 0 0 no-repeat;
 }
 
 #mainbody ul.arrow3 li,
 #mainbody li.arrow3 {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-5.png") 0 0 no-repeat;
+	background: url("/images/style1/bullet-5.png") 0 0 no-repeat;
 }
 
 #mainbody ul.star li,
 #mainbody li.star {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-6.png") 0 0 no-repeat;
+	background: url("/images/style1/bullet-6.png") 0 0 no-repeat;
 }
 
 #mainbody ul.circle li,
 #mainbody li.circle {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-7.png") 0 0 no-repeat;
+	background: url("/images/style1/bullet-7.png") 0 0 no-repeat;
 }
 
 span.loginsubmit,
 span.logoutsubmit {
 	color: #fff;
-	background: url("http://www.ukshapenote.org.uk/images/style1/login_button.png") no-repeat;
+	background: url("/images/style1/login_button.png") no-repeat;
 }
 
 /* joomla content */
@@ -526,7 +526,7 @@ span.pathway {
 }
 
 span.pathway img {
-	background: url("http://www.ukshapenote.org.uk/images/style1/bullet-pathway.png") no-repeat;
+	background: url("/images/style1/bullet-pathway.png") no-repeat;
 }
 
 span.pathway a {
@@ -556,11 +556,11 @@ td.sectiontableentry1 {
 }
 
 table.contentpaneopen tbody tr td span.small {
-	background: url("http://www.ukshapenote.org.uk/images/style1/icon-author.png") 0 0 no-repeat;
+	background: url("/images/style1/icon-author.png") 0 0 no-repeat;
 }
 
 td.createdate {
-	background: url("http://www.ukshapenote.org.uk/images/style1/icon-created.png") 0 0 no-repeat;
+	background: url("/images/style1/icon-created.png") 0 0 no-repeat;
 }
 
 /* pull-down */
@@ -574,7 +574,7 @@ td.createdate {
 }
 
 #fxTarget {
-	background-image: url("http://www.ukshapenote.org.uk/images/style1/fx_bg.png");
+	background-image: url("/images/style1/fx_bg.png");
 }
 
 #fxTab {
